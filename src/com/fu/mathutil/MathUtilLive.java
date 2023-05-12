@@ -23,6 +23,10 @@ public class MathUtilLive {
         System.out.print("Input here: ");
         input = sc.nextInt();
         System.out.println("Your number: "+ MathUtil.getFactorial(input));
+        
+        //Them code sau lan dau lam chuyen ay 7:21PM
+        System.out.println("hihihihihihihihihi");
+        
     }
 
 }
